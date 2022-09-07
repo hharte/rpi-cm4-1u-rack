@@ -7,9 +7,11 @@ This project consists of a [Mini-ITX](https://en.wikipedia.org/wiki/Mini-ITX) ad
 
 The I/O plate includes openings for all CM4 I/O board connectors; however, the user may wish to remove the 12VDC barrel connector and/or the MicroSD card opening, depending on the use case.
 
-[FreeCAD 0.20](https://www.freecad.org/) FCstd files are provided for easy modification.
+[FreeCAD 0.20](https://www.freecad.org/) `FCstd` files are provided for easy modification.
 
 ![alt_text](https://raw.githubusercontent.com/hharte/rpi-cm4-1u-rack/main/photos/rpi_cm4_1u_rear.jpg "image_tooltip")
+
+The `.stl` files for 3D-printing are also available on [Thingiverse](https://www.thingiverse.com/thing:5500278).
 
 
 # Parts / Tools Required
@@ -17,9 +19,11 @@ The I/O plate includes openings for all CM4 I/O board connectors; however, the u
 
 ## Required
 
-Four Female-Male M2.5 hex standoffs, 5 mm in length, with threads protruding 3 mm.
 
-M2.5 tap (alternatively, you can drill the four holes for the M2.5 standoffs slightly for an interference fit with the standoffs.
+
+* Four M2.5 screws.
+* Four Female-Male M2.5 hex standoffs, 5 mm in length, with threads protruding 3 mm.
+* M2.5 tap (alternatively, you can drill the four holes for the M2.5 standoffs slightly for an interference fit with the standoffs.)
 
 Standard motherboard screws are used to attach the I/O plate to the iStarUSA chassis.
 
@@ -157,4 +161,3 @@ Note: Pin 10 is bent out of the way to allow the enclosure’s front panel USB h
 # References
 
 Raspberry Pi CM4 I/O Board ([manual](https://datasheets.raspberrypi.com/cm4io/cm4io-datasheet.pdf))
-
