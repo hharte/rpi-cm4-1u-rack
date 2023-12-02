@@ -3,7 +3,7 @@
 
 # Introduction
 
-This project consists of a [Mini-ITX](https://en.wikipedia.org/wiki/Mini-ITX) adapter and I/O plate to mount the [Raspberry Pi Compute Module 4 I/O board](https://www.raspberrypi.com/products/compute-module-4-io-board/) into the [iStarUSA D-118V2-ITX-DT 1U rackmount enclosure](https://www.monoprice.com/product?p_id=41762).  Neither the I/O plate nor the adapter are strictly ITX-compliant; however they are a good fit for the iStarUSA enclosure.
+This project consists of a [Mini-ITX](https://en.wikipedia.org/wiki/Mini-ITX) adapter and I/O plate to mount the [Raspberry Pi Compute Module 4 I/O board](https://www.raspberrypi.com/products/compute-module-4-io-board/) into the [iStarUSA D-118V2-ITX-DT 1U rackmount enclosure](https://www.amazon.com/iStarUSA-Compact-Desktop-mini-ITX-D-118V2-ITX-DT/dp/B0053YKPLM/).  Neither the I/O plate nor the adapter are strictly ITX-compliant; however they are a good fit for the iStarUSA enclosure.
 
 The I/O plate includes openings for all CM4 I/O board connectors; however, the user may wish to remove the 12VDC barrel connector and/or the MicroSD card opening, depending on the use case.
 
@@ -161,3 +161,7 @@ Note: Pin 10 is bent out of the way to allow the enclosure’s front panel USB h
 # References
 
 Raspberry Pi CM4 I/O Board ([manual](https://datasheets.raspberrypi.com/cm4io/cm4io-datasheet.pdf))
+
+[iStarUSA D-118V2 case on Amazon](https://www.amazon.com/iStarUSA-Compact-Desktop-mini-ITX-D-118V2-ITX-DT/dp/B0053YKPLM/)
+
+[RackChoice 1U on Amazon](https://www.amazon.com/dp/B0B3MG34D1)
